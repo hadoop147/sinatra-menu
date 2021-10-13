@@ -7,10 +7,10 @@ get '/' do
 end
 
 Choices = {
-  'HAM' => 'Ham',
-  'PIZ' => 'Pi',
-  'CUR' => 'Cur',
-  'NOO' => 'Nood',
+  'HAM' => 'Hamburger',
+  'PIZ' => 'Pizza',
+  'CUR' => 'Curry',
+  'NOO' => 'Noodles',
 }
 
 post '/cast' do
